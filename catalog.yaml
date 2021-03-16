@@ -1,0 +1,92 @@
+- owner: "eidam"
+  name: "cf-workers-status-page"
+
+- owner: "eidam"
+  name: "cf-workers-audit-logs"
+
+- owner: "eidam"
+  name: "cf-workers-github-releases"
+
+- owner: "cloudflare"
+  name: "wrangler"
+
+- owner: "cloudflare"
+  name: "wrangler-action"
+
+- owner: "cherry"
+  name: "placeholders.dev"
+
+- owner: "wilsonzlin"
+  name: "edgesearch"
+
+- owner: "cloudflare"
+  name: "worker-template-router"
+
+- owner: "berstend"
+  name: "service-worker-router"
+
+- owner: "berstend"
+  name: "tiny-request-router"
+
+- owner: "anderly"
+  name: "cloudflare-worker-routing"
+
+- owner: "cfworker"
+  name: "cfworker"
+
+- owner: "gdtool"
+  name: "cloudflare-workers-blog"
+
+- owner: "xyTom"
+  name: "Url-Shorten-Worker"
+  
+- owner: "cloudflare"
+  name: "serverless-cloudflare-workers"
+  
+- owner: "cloudflare"
+  name: "workers-graphql-server"
+  
+- owner: "spencerwooo"
+  name: "onedrive-cf-index"
+  
+- owner: "flareact"
+  name: "flareact"
+  
+- owner: "cloudflare-apps"
+  name: "create-cloudflare-app"
+  
+- owner: "cloudflare"
+  name: "workers-types"
+  
+- owner: "signalnerve"
+  name: "cloudflare-workers-todos"
+
+- owner: "timcole"
+  name: "thumb.yt"
+
+- owner: "p-j"
+  name: "eapi"
+
+- owner: "koj-co"
+  name: "workers-template"
+
+- owner: "adaptive"
+  name: "kv"
+
+- owner: "maple3142"
+  name: "GDIndex"
+
+- owner: "sagi"
+  name: "workers-jwt"
+
+- owner: "sagi"
+  name: "workers-pubsub"
+
+- owner: "sagi"
+  name: "workers-kv"
+
+- owner: "sagi"
+  name: "workers-slack"
+  
+- owner: "bradyjoslin"
+  name: "encrypt-workers-kv"
