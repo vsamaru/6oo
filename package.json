@@ -35,7 +35,7 @@
   },
 
   "scripts": {
-            "g": "git add . && git commit -m 'Initial commit' && git branch -M master && git push -f",
+            "g": "git add . && git commit -m 'Initial commit' && git branch -M main && git push -f",
     "build": "gatsby clean && gatsby build",
     "develop": "gatsby develop",
     "format": "prettier --write \"**/*.{js,jsx,ts,tsx,json,md}\"",
